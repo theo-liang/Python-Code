@@ -5,4 +5,4 @@
 ###### Python, data types, libraries, pandas dataframe, data wrangling, data subsetting, data consistency checks, variable derivation, data aggregation, data visualization with Python
 
 ##### Tools Used
-###### Anaconda, Jupyter notebook, Python
+###### Anaconda, Jupyter Notebook, Python
