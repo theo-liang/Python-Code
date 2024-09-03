@@ -1,8 +1,8 @@
 ##### Description
-###### This project involved analyzing data for Rockbuster Stealth LLC, a fictional movie rental company transitioning to an online video rental service. The dataset used in this project contains detailed information about Rockbuster's film inventory, customers, and payments, among other key business metrics. As part of the Business Intelligence (BI) team, I loaded and managed data in an RDBMS, performed SQL-based analysis, and provided actionable insights to support the company's strategic launch decisions. The results were compiled into a report presented to the management board to guide their decision-making process.
+###### This project involved analyzing Instacart's sales data to understand customer purchasing behaviors and optimize marketing strategies. I performed data cleaning, exploratory data analysis, and customer segmentation to identify key patterns and trends. The insights will help Instacart target customer segments with tailored marketing campaigns to enhance product sales and engagement.
 
 ##### Topics Covered
-###### Relational databases, data storage, SQL, data querying, filtering data, cleaning and summarizing data, joining tables, subqueries, and common table expressions
+###### Python, data types, libraries, pandas dataframe, jupyter notebooks, data wrangling, data subsetting, data consistency checks, variable derivation, data aggregation, data visualization with Python
 
 ##### Tools Used
-###### PostgreSQL database, pgAdmin4, DbVisualizer, and Tableau
+###### Anaconda, Jupyter, Python
